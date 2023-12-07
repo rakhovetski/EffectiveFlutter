@@ -1,16 +1,6 @@
-# effective_project
+# Effective Flutter Project
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Screenshots:
+![image](https://github.com/rakhovetski/EffectiveFlutter/assets/93330902/3ac29679-8553-44fc-981e-b8cf3e2d0a72)
+![image](https://github.com/rakhovetski/EffectiveFlutter/assets/93330902/dd1b3567-4aa8-4072-8241-80e9c7d193fb)
+![image](https://github.com/rakhovetski/EffectiveFlutter/assets/93330902/02bd2b31-6309-47aa-885b-06efd977446a)
